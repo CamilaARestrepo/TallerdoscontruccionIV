@@ -1,0 +1,15 @@
+C:\Users\cacevedo\Desktop\punto2\bin\Debug\net7.0\punto2.exe
+C:\Users\cacevedo\Desktop\punto2\bin\Debug\net7.0\punto2.deps.json
+C:\Users\cacevedo\Desktop\punto2\bin\Debug\net7.0\punto2.runtimeconfig.json
+C:\Users\cacevedo\Desktop\punto2\bin\Debug\net7.0\punto2.dll
+C:\Users\cacevedo\Desktop\punto2\bin\Debug\net7.0\punto2.pdb
+C:\Users\cacevedo\Desktop\punto2\obj\Debug\net7.0\punto2.csproj.AssemblyReference.cache
+C:\Users\cacevedo\Desktop\punto2\obj\Debug\net7.0\punto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cacevedo\Desktop\punto2\obj\Debug\net7.0\punto2.AssemblyInfoInputs.cache
+C:\Users\cacevedo\Desktop\punto2\obj\Debug\net7.0\punto2.AssemblyInfo.cs
+C:\Users\cacevedo\Desktop\punto2\obj\Debug\net7.0\punto2.csproj.CoreCompileInputs.cache
+C:\Users\cacevedo\Desktop\punto2\obj\Debug\net7.0\punto2.dll
+C:\Users\cacevedo\Desktop\punto2\obj\Debug\net7.0\refint\punto2.dll
+C:\Users\cacevedo\Desktop\punto2\obj\Debug\net7.0\punto2.pdb
+C:\Users\cacevedo\Desktop\punto2\obj\Debug\net7.0\punto2.genruntimeconfig.cache
+C:\Users\cacevedo\Desktop\punto2\obj\Debug\net7.0\ref\punto2.dll
