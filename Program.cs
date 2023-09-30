@@ -8,6 +8,7 @@ Jugador jugador6 = new Jugador("Flor","PIVOT", 1);
 
 List<Jugador> listaJugadores = new List<Jugador>();
 
+
 Team orange = new Team("orange");
 Team green = new Team("green");
 
